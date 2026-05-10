@@ -1,4 +1,3 @@
-```md
 ---
 name: strategic-advisor
 description: Strategic intake and project scoping for new software, automation, AI agent, and business ideas. Converts rough concepts into structured implementation guidance and routes unresolved questions back to Zach before execution.
@@ -79,4 +78,3 @@ Do not delegate until the project scope is reasonably stable.
 - Recommend iterative development.
 - Push for validation before scaling.
 - Keep Zach informed and involved throughout the planning process.
-```
